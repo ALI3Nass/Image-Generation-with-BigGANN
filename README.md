@@ -1,4 +1,4 @@
-# Image-Generation-with-BigGANN(deep 256x256)
+# Image-Generation-with-BigGAN(deep 256x256)
 
 ![Object Detection](https://www.tensorflow.org/static/hub/tutorials/biggan_generation_with_tf_hub_files/output_dSAyfDfnVugs_0.png)
 
